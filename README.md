@@ -1,5 +1,3 @@
-# 👨‍💻 Abubakarr Marah
-
 🎓 Computer Science Student | 🧠 Tech Enthusiast | 💼 UNIMAK CS Department President  
 Passionate about building scalable, real-world solutions using modern web technologies.
 
