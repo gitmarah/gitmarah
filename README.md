@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Abubakarr Marah
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on GitHub with other developers.
-- 📫 Email: marahabubakarr2112@gmail.com
+# 👨‍💻 Abubakarr Marah
 
-<!---
-gitmarah/gitmarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student | 🧠 Tech Enthusiast | 💼 UNIMAK CS Department President  
+Passionate about building scalable, real-world solutions using modern web technologies.
+
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React Native, HTML/CSS, TailwindCSS  
+- **Backend:** NestJS, Node.js  
+- **Database:** MySQL, MongoDB  
+- **Others:** TypeScript, Git, REST APIs  
+
+## 📚 Currently Learning
+- Advanced TypeScript Patterns  
+- Backend Architecture with NestJS  
+- DevOps Basics & Deployment Strategies
+
+## 🤝 Open to Collaboration
+- Contributing to open-source projects  
+- Building useful tools and apps  
+- Team-based hackathons or remote internships
+
+## 📬 Reach Me
+- **Email:** [thetelastudio@gmail.com](mailto:thetelastudio@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/](https://www.linkedin.com/in/abubakarr-marah-638648377/)
+- **Portfolio:** [https://bokari.com/](https://bokari.netlify.app/)
