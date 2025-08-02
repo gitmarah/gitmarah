@@ -1,4 +1,4 @@
-🎓 Computer Science Student | 🧠 Tech Enthusiast | 💼 UNIMAK CS Department President  
+🎓 Computer Science Student | 🧠 Tech Enthusiast | 💼 UNIMAK CS Society President  
 Passionate about building scalable, real-world solutions using modern web technologies.
 
 ## 🛠️ Tech Stack
